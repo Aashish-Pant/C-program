@@ -8,7 +8,7 @@ int remain(int num,int div)
 int main() {
     // Write C++ code here
     int a,b;
-    printf("enter two numbers\n");
+    printf("enter three numbers\n");
     scanf("%d%d",&a,&b);
     printf("rem is %d",remain(a,b));
     
